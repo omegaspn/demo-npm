@@ -1,7 +1,7 @@
-const { HelloNpm } = require(".");
+const { helloNpm } = require(".");
 
-describe("HelloNpm", () => {
+describe("helloNpm", () => {
   it("should return void", () => {
-    expect(HelloNpm()).toBe();
+    expect(helloNpm()).toBe();
   });
 });

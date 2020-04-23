@@ -1,1 +1,1 @@
-export function HelloNpm(): void;
+export function helloNpm(): void;

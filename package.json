@@ -1,6 +1,6 @@
 {
   "name": "nova-demo-npm",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "description": "for demo npm",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omegaspn/demo-npm.git"
+    "url": "git+https://github.com/omegaspn/nova-demo-npm.git"
   },
   "keywords": [
     "demo",
@@ -17,9 +17,9 @@
   "author": "Supanat Wongchai",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/omegaspn/demo-npm/issues"
+    "url": "https://github.com/omegaspn/nova-demo-npm/issues"
   },
-  "homepage": "https://github.com/omegaspn/demo-npm#readme",
+  "homepage": "https://github.com/omegaspn/nova-demo-npm#readme",
   "dependencies": {},
   "devDependencies": {
     "jest": "^24.9.0"
